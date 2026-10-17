@@ -8,7 +8,7 @@ Live: https://dguywhoknows.github.io/language-reader/
 
 ## Overview
 
-Lang Lens follows the comprehensible-input approach used by apps like LingQ. Generate a story at your CEFR level (A1 to C1) on any topic, or paste real text. Every word is tokenized with Intl.Segmenter, so it works even for Japanese, Chinese and Korean, and colored by your knowledge state (new, learning, known). Tap a word for an AI gloss that uses the sentence to pick the right sense: lemma, part of speech, translation, a fresh example and a grammar note. Tap ¶ to translate a whole sentence. A live comprehension estimate shows what share of the text you understand, and a 4-question quiz checks the gist.
+Margins follows the comprehensible-input approach used by apps like LingQ. Generate a story at your CEFR level (A1 to C1) on any topic, or paste real text. Every word is tokenized with Intl.Segmenter, so it works even for Japanese, Chinese and Korean, and colored by your knowledge state (new, learning, known). Tap a word for an AI gloss that uses the sentence to pick the right sense: lemma, part of speech, translation, a fresh example and a grammar note. Tap ¶ to translate a whole sentence. A live comprehension estimate shows what share of the text you understand, and a 4-question quiz checks the gist.
 
 ## Pages
 
